@@ -1,7 +1,5 @@
 # 💊🦠 **DD-RDL: Drug-Disease Relation Discovery and Labeling** 🧬🔍
 
-![GitHub](https://img.shields.io/github/license/jovana.dobreva/dd-rdl-model)  
-![GitHub last commit](https://img.shields.io/github/last-commit/jovana.dobreva/dd-rdl-model)
 
 ### Authors:  
 👩‍💻 **Jovana Dobreva**  
